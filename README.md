@@ -43,6 +43,6 @@ _Note: This project is run on Anaconda distribution._
 1. **Facebook Prophet model for the stock _Microsoft_**
     <img align="center" src="./images/Facebook-Prophet-model.png" width="500" height="200" style="max-width:100%">
 2. **SARIMA model for the stock _Microsoft_**
-     <img align="center" src="./images/SARIMA-model.png" width="600" height="200" style="max-width:100%">
+     <img align="left" src="./images/SARIMA-model.png" width="600" height="300" style="max-width:100%">
 3. **Clusters of Average annual Stock returns**
-     <img align="center" src="./images/Annual-stock-returns-Clusters.png" width="550" height="200" style="max-width:100%">
+     <img align="left" src="./images/Annual-stock-returns-Clusters.png" width="550" height="300" style="max-width:100%">
