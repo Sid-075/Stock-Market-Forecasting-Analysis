@@ -6,8 +6,8 @@ Stock Market Forecasting & Analysis is a project that uses time series analysis 
 '*All_stocks_2010-2018*' is the dataset based on which the project has been built. The csv file can be found in the 'Dataset' directory of this repository.
 
 My analysis is twofold:
-	1.	To predict 2019 values and compare it with the existing data (2019).
-	2.	To predict the most profitable stocks of 2019 using Clustering models.
+1. To predict 2019 values and compare it with the existing data (2019).
+2. To predict the most profitable stocks of 2019 using Clustering models.
 
 The time series analysis was split into 4 parts:
 	-	Level: The base value for the series if it were a straight line.
@@ -32,12 +32,12 @@ Developed clustering on the given data from 2010-2018 based on the attribute ann
 The most profitable stocks were Disney, AT&T, Microsoft, Kraft & Heinz.
 
 ## How to run this project?
-*Note: This project is run on Anaconda distribution.*
-	1. Clone the repositiory into your workspace using the code link.
-	2. Install pip version 2.19.1.1 through command pip install pystan==2.19.1.1
-	3. Install the required libraries using the command pip install requirements.txt
-	4. Open IPython Notebook: 2019StockMarketAnalysis.ipynb with Jupyter Notebook.
-	5. Run the Notebook to view the results.
+_Note: This project is run on Anaconda distribution._
+1. Clone the repositiory into your workspace using the code link.
+2. Install pip version 2.19.1.1 through command pip install pystan==2.19.1.1
+3. Install the required libraries using the command pip install requirements.txt
+4. Open IPython Notebook: 2019StockMarketAnalysis.ipynb with Jupyter Notebook.
+5. Run the Notebook to view the results.
 
 ## Data Visulizations
 
