@@ -1,5 +1,5 @@
 # Stock-Market-Forecasting-Analysis
-![Project banner](./images/banner.jpg)
+<img src="./images/banner.jpg" width = "200" height = "200">
 ## About
 Stock Market Forecasting & Analysis is a project that uses time series analysis to show seasonal patterns and trends. I used time series values for forecasting most profitable stocks of 2019.
 
@@ -39,7 +39,7 @@ _Note: This project is run on Anaconda distribution._
 4. Open IPython Notebook: 2019StockMarketAnalysis.ipynb with Jupyter Notebook.
 5. Run the Notebook to view the results.
 
-## Data Visulizations
+## Data Visualizations
 1. **Facebook Prophet model for the stock _Microsoft_**
     <img align="center" src="./images/Facebook-Prophet-model.png" width="500" height="200" style="max-width:100%">
 2. **SARIMA model for the stock _Microsoft_**
