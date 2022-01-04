@@ -41,7 +41,7 @@ _Note: This project is run on Anaconda distribution._
 
 ## Data Visulizations
 1. **Facebook Prophet model for the stock _Microsoft_**
-    <img align="center" src="./images/Facebook-Prophet-model.png" width="400" height="200" style="max-width:100%">
+    <img align="center" src="./images/Facebook-Prophet-model.png" width="700" height="200" style="max-width:100%">
 2. **SARIMA model for the stock _Microsoft_**
      <img src="./images/SARIMA-model.png" width="400" height="200">
 3. **Clusters of Average annual Stock returns**
