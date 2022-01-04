@@ -1,5 +1,5 @@
 # Stock-Market-Forecasting-Analysis
-<img src="./images/banner.jpg" width = "500" height = "300">
+<img src="./images/banner.jpg" width = "400" height = "250">
 ## About
 Stock Market Forecasting & Analysis is a project that uses time series analysis to show seasonal patterns and trends. I used time series values for forecasting most profitable stocks of 2019.
 
