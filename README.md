@@ -18,7 +18,7 @@ The time series analysis was split into 4 parts:
 
 The dataset contains data from 2010-2019 retrieved from Yahoo finance using a library called pandas data reader. The time series model is used to predict the 2019 stock data by comparing it to the existing data. For the time series model, the opening price of every stock is taken as most important variable for prediction of 2019 data.
 
-I used 2 models, SARIMA and Facebook Prophet model.
+I used 2 models, **SARIMA** and **Facebook Prophet model**.
  
 Facebook Prophet model was used as it can fit nonlinear trends with yearly, weekly and daily seasonality. SARIMA model takes into account, seasonality, trend, and noise in the data. The seasonal parameter is set at 12 (monthly data).
 
