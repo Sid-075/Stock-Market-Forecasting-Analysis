@@ -11,10 +11,10 @@ My analysis is twofold:
 2. To predict the most profitable stocks of 2019 using Clustering models.
 
 The time series analysis was split into 4 parts:
-- Level: The base value for the series if it were a straight line.
-- Trend: The linear increasing or decreasing behavior of the series over time.
-- Seasonality: The repeating patterns or cycles of behavior over time.
-- Noise: The variability in the observations that cannot be explained by the model.
+- **Level**: The base value for the series if it were a straight line.
+- **Trend**: The linear increasing or decreasing behavior of the series over time.
+- **Seasonality**: The repeating patterns or cycles of behavior over time.
+- **Noise**: The variability in the observations that cannot be explained by the model.
 
 The dataset contains data from 2010-2019 retrieved from Yahoo finance using a library called pandas data reader. The time series model is used to predict the 2019 stock data by comparing it to the existing data. For the time series model, the opening price of every stock is taken as most important variable for prediction of 2019 data.
 
